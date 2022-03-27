@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 54c189b9-f325-3d7a-cc23-001163ca74da
 resourcetype: Document
 title: practice_3_solut.pdf
 uid: fe5d6280-09a0-7a49-74be-72d355bb2d68
