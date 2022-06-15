@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains information about texts, problem sets,
+  in-class work, tutor meetings, exams, policy on cooperation, outside help and grades,
+  and grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about example problems on Newton's laws.
-file: /media/courses/8-01l-physics-i-classical-mechanics-fall-2005/41f6f23f674ffda589bbfc32854b94a6_lec9.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/41f6f23f674ffda589bbfc32854b94a6_lec9.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lec9.pdf
 uid: 41f6f23f-674f-fda5-89bb-fc32854b94a6
 ---
+This resource discusses about example problems on Newton's laws.
+
