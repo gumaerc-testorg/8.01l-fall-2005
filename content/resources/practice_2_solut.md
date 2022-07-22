@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/466ab42aa6bc55512e8
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: practice_2_solut.pdf
 uid: 466ab42a-a6bc-5551-2e85-e11d27f33543
 ---
 Solutions to the practice exam problems.
-

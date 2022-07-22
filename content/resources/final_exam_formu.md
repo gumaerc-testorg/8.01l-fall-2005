@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/7939838239ae7b383d4
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final_exam_formu.pdf
 uid: 79398382-39ae-7b38-3d40-9960bca41512
 ---
 Formula sheet for the final exam.
-

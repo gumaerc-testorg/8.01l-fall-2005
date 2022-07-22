@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/afd4ee2483062af2106
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: practice_final.pdf
 uid: afd4ee24-8306-2af2-1065-f3cd0b77d4c5
 ---
 Practice exam.
-

@@ -6,6 +6,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/2d23babda903bc30af1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec26.pdf
 uid: 2d23babd-a903-bc30-af1c-f93a5d1ad7e0
 ---
 This resource discusses about the topics based on introduction to angular motion.
-

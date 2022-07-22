@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/367a806180fc469c94d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec8.pdf
 uid: 367a8061-80fc-469c-94de-8f6ff85ca272
 ---
 This resource discusses about Newton's three laws.
-

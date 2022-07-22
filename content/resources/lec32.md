@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/9e8bfc7f6cead97649b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec32.pdf
 uid: 9e8bfc7f-6cea-d976-49be-e037f5a9fcc2
 ---
 This resource discusses again about momentum of rotation.
-

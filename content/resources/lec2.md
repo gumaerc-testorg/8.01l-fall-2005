@@ -6,6 +6,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/2376a141e65815474d4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec2.pdf
 uid: 2376a141-e658-1547-4d4d-05fd09c3f300
 ---
 This resource discusses force as a vector, static equilibrium, addition and subtracton on vectors.
-

@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/7bd1c39c59e62613e90
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: exam3_formulas.pdf
 uid: 7bd1c39c-59e6-2613-e901-3dccbba12b3b
 ---
 Formula sheet for the third exam.
-

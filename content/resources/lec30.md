@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/9bf73f91483e554d8c4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec30.pdf
 uid: 9bf73f91-483e-554d-8c41-9ad3ae52c129
 ---
 This resource discusses about energy and Momentum of Rotation.
-

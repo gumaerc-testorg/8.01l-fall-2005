@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/b61ab95ff57cd6641f0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec23.pdf
 uid: b61ab95f-f57c-d664-1f07-1823ff1ecfee
 ---
 This rseource discusses about the topics based on gravity.
-

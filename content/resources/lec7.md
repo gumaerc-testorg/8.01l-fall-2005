@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/6a6f704a1b311bdde05
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec7.pdf
 uid: 6a6f704a-1b31-1bdd-e05f-3c1fcfb47769
 ---
 This resource discusses about kinematics: 2D motion, and circular motion.
-

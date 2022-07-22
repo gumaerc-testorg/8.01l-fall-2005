@@ -5,6 +5,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/41f6f23f674ffda589b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec9.pdf
 uid: 41f6f23f-674f-fda5-89bb-fc32854b94a6
 ---
 This resource discusses about example problems on Newton's laws.
-

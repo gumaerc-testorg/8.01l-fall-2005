@@ -6,6 +6,7 @@ file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/031b836f835c807392e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec5.pdf
 uid: 031b836f-835c-8073-92ed-cb435c8228b1
 ---
 This resource discusses about kinematics: describing 1D motion, and relative velocity.
-
