@@ -11,15 +11,15 @@ leftnav:
   name: Readings
   url: /pages/readings
   weight: 30
-- identifier: 1d351dfe-ae87-8648-a7b8-2bdda84b94ee
-  name: Assignments
-  url: /pages/assignments
-  weight: 40
-- identifier: 54c189b9-f325-3d7a-cc23-001163ca74da
-  name: Exams
-  url: /pages/exams
-  weight: 50
 - identifier: ef5d7853-04dc-089f-760d-fcab84f25ca4
   name: Lecture Notes
   url: /pages/lecture-notes
+  weight: 40
+- identifier: 1d351dfe-ae87-8648-a7b8-2bdda84b94ee
+  name: Assignments
+  url: /pages/assignments
+  weight: 50
+- identifier: 54c189b9-f325-3d7a-cc23-001163ca74da
+  name: Exams
+  url: /pages/exams
   weight: 60
