@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource discusses about the topics: exam review, work/energy,
   and potential energy.'
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/2add246e1483f1a54b8f56838be7834f_lec14.pdf
+file_size: 158135
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
