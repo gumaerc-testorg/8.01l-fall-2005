@@ -2,6 +2,7 @@
 content_type: resource
 description: Practice exam.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/9e59e28694ede0b946d4db42850ab16e_practice_exam1.pdf
+file_size: 91064
 file_type: application/pdf
 learning_resource_types:
 - Exams

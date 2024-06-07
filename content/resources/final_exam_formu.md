@@ -2,6 +2,7 @@
 content_type: resource
 description: Formula sheet for the final exam.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/7939838239ae7b383d409960bca41512_final_exam_formu.pdf
+file_size: 583880
 file_type: application/pdf
 learning_resource_types:
 - Exams

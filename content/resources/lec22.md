@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses more on simple harmonic motion, and introduction
   to more accurate gravity formula.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/d7494639c20d637b30649cfdd05f649a_lec22.pdf
+file_size: 187885
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

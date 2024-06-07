@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses about the topics based on 2D collisions.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/114e70dac5ed357ee5952c988c747ad1_lec19.pdf
+file_size: 84952
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
