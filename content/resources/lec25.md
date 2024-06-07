@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses about the properties of fluids.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/cee23142d28a11c411833ac1b8f6f25d_lec25.pdf
+file_size: 141510
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

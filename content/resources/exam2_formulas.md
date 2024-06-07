@@ -2,6 +2,7 @@
 content_type: resource
 description: Formula sheet for the second exam.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/842ccd99dfbc39d8ae5e649841f5af9e_exam2_formulas.pdf
+file_size: 209992
 file_type: application/pdf
 learning_resource_types:
 - Exams

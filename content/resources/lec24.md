@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource discusses about example problems on energy and gravity.
 file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/c93d69b5c068247a369d33c75db56de2_lec24.pdf
+file_size: 97084
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
