@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about example of kinematics and velocity problems.
-file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/94254977fd72307b0206470bf33c9532_lec6.pdf
+file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/94254977fd72307b0206470bf33c9532_lec6.pdf
 file_size: 197391
 file_type: application/pdf
 learning_resource_types:
