@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about the topics based on potential energy.
-file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/821449c017809d9e50fc3fb297fd3daa_lec15.pdf
+file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/821449c017809d9e50fc3fb297fd3daa_lec15.pdf
 file_size: 201420
 file_type: application/pdf
 learning_resource_types:
