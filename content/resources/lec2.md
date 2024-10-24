@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses force as a vector, static equilibrium, addition
   and subtracton on vectors.
-file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/2376a141e65815474d4d05fd09c3f300_lec2.pdf
+file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/2376a141e65815474d4d05fd09c3f300_lec2.pdf
 file_size: 84650
 file_type: application/pdf
 learning_resource_types:
