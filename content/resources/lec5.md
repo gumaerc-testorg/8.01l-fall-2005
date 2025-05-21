@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource discusses about kinematics: describing 1D motion, and
   relative velocity.'
-file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/031b836f835c807392edcb435c8228b1_lec5.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/031b836f835c807392edcb435c8228b1_lec5.pdf
 file_size: 109027
 file_type: application/pdf
 learning_resource_types:

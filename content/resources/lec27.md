@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about the topics based on statics and dynamics
   of angular motion.
-file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/478b22ecde599466413770ed68da0fcb_lec27.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/478b22ecde599466413770ed68da0fcb_lec27.pdf
 file_size: 202403
 file_type: application/pdf
 learning_resource_types:
