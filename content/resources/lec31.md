@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses more about momentum of rotation.
-file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/708a2f0e84c390a7c12762e41d596f5c_lec31.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/708a2f0e84c390a7c12762e41d596f5c_lec31.pdf
 file_size: 121236
 file_type: application/pdf
 learning_resource_types:

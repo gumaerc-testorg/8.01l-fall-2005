@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about the circular motion with gravity.
-file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/b6c76b1481b708661b6d686de8833240_lec12.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/b6c76b1481b708661b6d686de8833240_lec12.pdf
 file_size: 57280
 file_type: application/pdf
 learning_resource_types:
