@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Practice exam.
-file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/e79bf4cd1410a2b2fd8f7097431dc262_practice_exam3.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/e79bf4cd1410a2b2fd8f7097431dc262_practice_exam3.pdf
 file_size: 420680
 file_type: application/pdf
 learning_resource_types:

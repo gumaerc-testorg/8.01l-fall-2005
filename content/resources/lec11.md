@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about the topics based on springs.
-file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/7ab5ad88c5f1229757ecc4b79358c715_lec11.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/7ab5ad88c5f1229757ecc4b79358c715_lec11.pdf
 file_size: 79826
 file_type: application/pdf
 learning_resource_types:

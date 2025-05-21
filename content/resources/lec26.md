@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about the topics based on introduction to angular
   motion.
-file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/2d23babda903bc30af1cf93a5d1ad7e0_lec26.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/2d23babda903bc30af1cf93a5d1ad7e0_lec26.pdf
 file_size: 193452
 file_type: application/pdf
 learning_resource_types:

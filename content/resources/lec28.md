@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about the topics based on Everything you need
   to know about the dynamics of rotation.
-file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/3608221741dd7ce67b6ee2ff650d0e17_lec28.pdf
+file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/3608221741dd7ce67b6ee2ff650d0e17_lec28.pdf
 file_size: 178785
 file_type: application/pdf
 learning_resource_types:
