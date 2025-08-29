@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource discusses about the topics based on conservation of momentum.
-file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/01f1a8fd7380219da4eed894eca0b34a_lec17.pdf
+file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/01f1a8fd7380219da4eed894eca0b34a_lec17.pdf
 file_size: 114929
 file_type: application/pdf
 learning_resource_types:
