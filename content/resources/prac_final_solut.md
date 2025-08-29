@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to the practice exam problems.
-file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/2bcd3be2add092205c2ce1930ab7cf5d_prac_final_solut.pdf
+file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/2bcd3be2add092205c2ce1930ab7cf5d_prac_final_solut.pdf
 file_size: 94686
 file_type: application/pdf
 learning_resource_types:
