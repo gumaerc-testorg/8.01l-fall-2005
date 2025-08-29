@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Formula sheet for the third exam.
-file: /courses/8-01l-physics-i-classical-mechanics-fall-2005/7bd1c39c59e62613e9013dccbba12b3b_exam3_formulas.pdf
+file: /ol-ocw-studio-app/courses/8-01l-physics-i-classical-mechanics-fall-2005/7bd1c39c59e62613e9013dccbba12b3b_exam3_formulas.pdf
 file_size: 326070
 file_type: application/pdf
 learning_resource_types:
